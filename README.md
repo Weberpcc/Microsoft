@@ -6,7 +6,7 @@ SEO-Mind is an intelligent SEO agent that combines real-time technical audits, k
 
 ---
 
-## 🏆 Hackathon Showcase: Memory Lab
+## 🏆 Hackathon Showcase: Memory Lab..
 
 The **Memory Lab** page demonstrates the core innovation: running the same AI query with and without Hindsight historical memory, showing side-by-side how memory context changes recommendations.
 
